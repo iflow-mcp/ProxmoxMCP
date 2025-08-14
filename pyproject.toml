@@ -3,7 +3,7 @@ requires = ["setuptools>=61.0.0", "wheel"]
 build-backend = "setuptools.build_meta"
 
 [project]
-name = "proxmox-mcp"
+name = "iflow-mcp_proxmox-mcp"
 version = "0.1.0"
 description = "A Model Context Protocol server for interacting with Proxmox hypervisors"
 requires-python = ">=3.9"
